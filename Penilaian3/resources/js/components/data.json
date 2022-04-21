@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "title": "Indomie",
+      "description": "Enak Bangett",
+      "price": 10000,
+      "stock": 30
+    },
+    {
+        "id": 2,
+        "title": "Mie Telor",
+        "description": "Mantapp",
+        "price": 15000,
+        "stock": 55
+    },
+    {
+        "id": 3,
+        "title": "Nasi Goreng",
+        "description": "Kenyang",
+        "price": 20000,
+        "stock": 40
+    }
+]
